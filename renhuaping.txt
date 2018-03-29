@@ -1,0 +1,3 @@
+http://weirdo.duapp.com/aa/myblog/admin.php  ÕËºÅ£ºadmin ÃÜÂë£º123456
+
+http://weirdo.duapp.com/aa/myblog/index.php
